@@ -1,0 +1,17 @@
+.red {
+  background-color: #ff464a;
+}
+
+.green {
+  background-color: #87da83;
+}
+
+.blue {
+  background-color: #6a6df2;
+}
+
+div {
+  .col-md-4.red { height: 100px; }
+  .col-md-4.green { height: 100px; }
+  .col-md-4.blue { height: 100px; }
+}
